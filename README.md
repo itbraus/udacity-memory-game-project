@@ -5,12 +5,13 @@ This is the second project for [Front-End Nanodegree](https://www.udacity.com/co
 Feel free to fork or clone this project and add your own awesome features.
 
 ## Have fun!
-You can take a look and have fun [here](https://codeselfceo.github.io/udacity-memory-game-project/)!
+You can take a look and have fun [here](https://luisperezcr.github.io/udacity-memory-game-project/)!
 
 ## Technologies used
 * HTML
 * CSS
 * JavaScript
+* [Animations](https://daneden.github.io/animate.css/)
 
 ## Dependencies
 This project does not have dependencies. It only uses pure JavaScript for its functionality.
