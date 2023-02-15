@@ -253,3 +253,4 @@ function timer() {
     t = setTimeout(add, 1000);
 }
 // End of timer controller
+//Төгсөв
